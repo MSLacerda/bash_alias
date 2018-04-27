@@ -8,7 +8,7 @@ Repository with various bash scripts.
 ### Navigate to folder
 `$ cd terminal`
 
-### Copy the script and past to appropriate folder
+### Copy the script and past to the appropriate folder
 `$ cp .bash_aliases ~/`
 
 ### Source bashrc
