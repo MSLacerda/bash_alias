@@ -2,16 +2,16 @@
 
 Repository with various bash scripts.
 
-###Clone Repo:
+### Clone Repo:
 `$ git clone https://github.com/MSLacerda/terminal`
  
-###Navigate to folder
+### Navigate to folder
 `$ cd terminal`
 
-###Copy the script and past to appropriate folder
+### Copy the script and past to appropriate folder
 `$ cp .bash_aliases ~/`
 
-###Source bashrc
+### Source bashrc
 
 `$ source ~/.bashrc`
 
