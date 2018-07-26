@@ -1,8 +1,8 @@
 # apt-get aliases 
-alias sa-i='sudo apt-get install'
-alias sa-upd='sudo apt-get update'
-alias sa-upg='sudo apt-get upgrade'
-alias sa-ar='sudo apt-get autoremove'
+alias agt-i='apt-get install'
+alias agt-upd='apt-get update'
+alias agt-upg='apt-get upgrade'
+alias agt-ar='apt-get autoremove'
 
 # Git aliases
 alias g!='git init'
