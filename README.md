@@ -1,4 +1,4 @@
-# Terminal Repository
+# Aliases
 
 Repository with various bash scripts.
 
